@@ -1,6 +1,5 @@
 import React from 'react'
 import heart from '../../assets/images/heart.svg'
-import pcar from '../../assets/images/p-car.svg'
 import gasstation from '../../assets/images/gas-station.svg'
 import car from '../../assets/images/Car.svg'
 import profile from '../../assets/images/profile-2user.svg'
